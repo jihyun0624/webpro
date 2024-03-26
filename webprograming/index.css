@@ -1,0 +1,43 @@
+        /* article {
+            height: 150px;
+            border-color: black;
+            border: 1px;
+            border-style: dotted;
+            background-color: rgb(150, 223, 223);
+        } */
+
+
+        nav {
+            float: right;
+        }
+
+        section {
+            width: 60%;
+            float: left;
+        }
+
+        #반복문 {
+            background-color: rgb(0, 255, 115);
+        }
+
+        #for, #while {
+            background-color: rgb(6, 223, 103);
+            height: 150px;
+        }
+
+        #조건문 {
+            background-color: aqua;
+        }
+
+        #if, #elif, #else {
+            background-color: rgb(3, 224, 224);
+            height: 150px;
+        }
+        
+        footer {
+            clear: none;
+        }
+
+        header {
+            text-align: center;
+        }
